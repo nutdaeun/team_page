@@ -1,0 +1,87 @@
+.people {
+    width: 400px;
+    height: 500px;
+    background-color: rgb(255, 251, 251);
+    margin: 10px;
+    display: flex;
+    border-radius: 15px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 30px;
+    color: rgb(44, 44, 44)
+}
+
+h3 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+
+body {
+    background-color: rgb(255, 239, 161);
+}
+
+.position {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(255, 239, 161);
+    align-items: center;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    margin: 20px;
+}
+
+h4 {
+    color:rgb(43, 43, 43);
+}
+.intro {
+    width: 350px;
+    height: 200px;
+    background-color: rgb(255, 225, 165);
+    align-items: center;
+    display: block;
+    border-radius: 15px;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.peopleinfo {
+    display: block;
+    margin: 10px;
+}
+
+.name {
+    font-size: 25px;
+    font-weight: 600;
+    margin: 5px;
+    color: rgb(80,80,80);
+}
+
+.words {
+    font-style: italic;
+    color: rgb(85, 85, 85);
+    margin: 5px;
+}
+
+.Infoblock {
+    text-align:center;
+}
+
+.data {
+    font-style: italic;
+}
